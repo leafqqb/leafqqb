@@ -1,17 +1,16 @@
-<!-- 🌸 Soft Pink Gradient Header -->
 <p align="center">
   <img src="https://media.tenor.com/zlRe7QFsP6wAAAAi/cupcake-bakery.gif" />
 </p>
 
-<!-- 🌸 Kawaii Border -->
+
 <p align="center" style="font-size:20px;">🌸 · · · ✧ · · · 🌸 · · · ✧ · · · 🌸</p>
 
-<!-- 🌸 Soft Pink Sidebar Wrapper -->
+
 <div style="border-left: 6px solid #ffb7d5; padding-left: 20px;">
 
 <h1 align="center" style="color:#ff9ecb;">🌸 Hi, I'm Hiba ₍ᐢ. .ᐢ₎♡</h1>
 
-<!-- 🌸 Only ONE GIF spot (you choose the GIF) -->
+
 <p align="center">
   <img src="https://media1.tenor.com/m/kTQuhUxYs3cAAAAd/studio-ghibli.gif" width="260">
 </p>
@@ -20,12 +19,6 @@
   <em>A Python + Flask developer.</em>  
   <br>
   <em>I enjoy turning ideas into clean, scalable code.</em>
-</p>
-
-<!-- ✨ Animated pastel icons row -->
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAi/pink-heart.gif" width="40">
-  <img src="https://media.tenor.com/0AVbKGY_MxMAAAAi/stars.gif" width="40">
 </p>
 
 ---
@@ -60,7 +53,6 @@ I’m constantly exploring new ways to write smarter, safer, and more expressive
 
 </div>
 
-<!-- 🌸 Soft Pink Gradient Footer -->
 <p align="center">
   <img src="https://media.tenor.com/l5gLBLqvEH8AAAAi/cute.gif" />
 </p>
